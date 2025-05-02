@@ -9,7 +9,7 @@ function App({ Component, pageProps }: AppProps) {
     <>
       <Head>
         <title>Nextflix</title>
-        <meta name='description' content='Netflix clone, made using Next.js' />
+        <meta name='description' content='Feynman, made using Next.js' />
         <link rel='icon' href='/favicon.ico' />
       </Head>
       <ModalProvider>

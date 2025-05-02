@@ -17,7 +17,7 @@ export default function Home(): React.ReactElement {
     <div className={styles.container}>
       <Head>
         <title>Nextflix</title>
-        <meta name='description' content='Netflix clone, made using Next.js' />
+        <meta name='description' content='Feynman Platform, made using Next.js' />
         <link rel='icon' href='/favicon.ico' />
       </Head>
 
@@ -27,7 +27,7 @@ export default function Home(): React.ReactElement {
           <h1>
             Nextflix
           </h1>
-          <p>A simple Netflix clone built using Next.js</p>
+          <p>A simple Feynman Platform built using Next.js</p>
           <div className={styles.button} onClick={onSignIn}>Sign in</div>
         </div>
       </main>
