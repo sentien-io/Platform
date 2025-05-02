@@ -1,5 +1,5 @@
 # Nextflix 
-A simple Feynman Clone made using [Next.js](https://nextjs.org/) ⚡
+A simple Feynman Platform made using [Next.js](https://nextjs.org/) ⚡
 
 Currently, I have implemented the basic UI with media details fetch functionality.
 
